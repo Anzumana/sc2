@@ -8,4 +8,4 @@ and then run
 ```
 npm start
 ```
-This should start sc2 and run a wroker rush. :)
+This should start sc2 and run a worker rush. :)
