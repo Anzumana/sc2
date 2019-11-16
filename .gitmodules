@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/node-sc2/core
+[submodule "proto"]
+	path = proto
+	url = https://github.com/node-sc2/proto
